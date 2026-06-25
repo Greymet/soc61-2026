@@ -1,0 +1,6 @@
+RESOURCES STUDIED
+
+- OpenCV Python Tutorials: https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+- LearnOpenCV: https://learnopencv.com/
+- Kaggle Computer Vision: https://www.kaggle.com/learn/computer-vision
+- Szeliski book (Computer Vision: Algorithms and Applications): https://szeliski.org/Book/

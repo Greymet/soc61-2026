@@ -1,0 +1,5 @@
+RESOURCES STUDIED
+
+- OpenCV image processing tutorials: https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html
+- scikit-image tutorials: https://scikit-image.org/docs/stable/auto_examples/
+- HackerFactor perceptual hash article: https://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html

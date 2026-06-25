@@ -1,0 +1,6 @@
+RESOURCES STUDIED
+
+- Blockly Developer Guides: https://developers.google.com/blockly/guides/overview
+- React Flow Learn: https://reactflow.dev/learn
+- VisuAlgo: https://visualgo.net/
+- NetworkX docs: https://networkx.org/documentation/stable/

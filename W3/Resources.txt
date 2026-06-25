@@ -1,0 +1,6 @@
+RESOURCES STUDIED
+
+- MDN Learn Web Development: https://developer.mozilla.org/en-US/docs/Learn
+- React Learn: https://react.dev/learn
+- TypeScript Handbook: https://www.typescriptlang.org/docs/handbook/intro.html
+- Scrimba React: https://scrimba.com/learn/learnreact

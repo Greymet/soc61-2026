@@ -1,0 +1,14 @@
+Summary of stuff done till now. 
+Week 1: I already knew these things.
+
+Week 2: Explored basic Python constructs such as functions and dictionaries by building detection logic and writing automated tests for threshold filtering.
+
+Week 3: Learned frontend foundations by developing a three-stage dashboard mockup.
+
+Week 4: Studied backend system design including HTTP routes and JSON validation by designing, documenting, and testing a minimal image-analysis API contract.
+
+Week 5: Delved into visual programming and graph theory by creating and manually validating a block-based pipeline.
+
+Week 6: Explored images as data arrays, learning to load, resize, crop, and convert to grayscale while analyzing the effects of these transformations.
+
+Week 7: Focused on preprocessing chains and efficiency by experimenting with blur, edges, and thresholding to design a low-light processing policy.

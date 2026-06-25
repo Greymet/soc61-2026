@@ -1,0 +1,6 @@
+RESOURCES STUDIED
+
+- CS50 Python: https://cs50.harvard.edu/python/
+- Python for Everybody: https://www.py4e.com/
+- Kaggle Python: https://www.kaggle.com/learn/python
+- Exercism Python: https://exercism.org/tracks/python

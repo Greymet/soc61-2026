@@ -1,0 +1,5 @@
+RESOURCES STUDIED
+
+- Scratch: was taught in school so I skipped it.
+- Blockly Games: https://blockly.games/
+- CS Fundamentals: cs101
