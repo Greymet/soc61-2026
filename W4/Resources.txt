@@ -1,6 +1,6 @@
 RESOURCES STUDIED
 
 - FastAPI Tutorial: https://fastapi.tiangolo.com/tutorial/
-- Pydantic docs: https://docs.pydantic.dev/
+- Pydantic docs: https://docs.pydantic.dev
 - MDN HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
 - Postman Learning Center: https://learning.postman.com/
