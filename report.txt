@@ -11,4 +11,4 @@ Week 5: Delved into visual programming and graph theory by creating and manually
 
 Week 6: Explored images as data arrays, learning to load, resize, crop, and convert to grayscale while analyzing the effects of these transformations.
 
-Week 7: Focused on preprocessing chains and efficiency by experimenting with blur, edges, and thresholding to design a low-light processing policy.
+Week 7: Focused on preprocessing chains and efficiency by experimenting with blur, edges, and thresholding.
